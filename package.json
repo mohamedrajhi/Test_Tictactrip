@@ -1,0 +1,24 @@
+{
+  "name": "apijustify",
+  "version": "1.0.0",
+  "description": "JWT example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "mocha": "^8.2.1"
+  },
+  "engines": {
+    "node": "12.18.3"
+  },
+  "apidoc": {
+    "title": "Text justify api",
+    "url" : "https://boiling-mesa-23934.herokuapp.com"
+  }
+
+}
